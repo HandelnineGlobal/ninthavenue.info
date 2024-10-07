@@ -1,0 +1,1820 @@
+/* screen - index */
+
+.index {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-width: 1226px;
+  position: relative;
+}
+
+.index .header {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--text-grey);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  display: flex;
+  height: 124px;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-26 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  margin-bottom: -1.50px;
+  margin-top: -1.50px;
+  padding: 32px 82px;
+  position: relative;
+}
+
+.index .frame-48 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100px;
+}
+
+.index .ninthavenue-logo-black-1 {
+  height: 63px;
+  margin-right: -101.00px;
+  object-fit: cover;
+  position: relative;
+  width: 201px;
+}
+
+.index .menu {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 29px;
+  position: relative;
+}
+
+.index .link {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .banner-section {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(../img/banner-section.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  height: 667px;
+  padding: 154px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-25 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 23px;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .define-beauty-your-way {
+  align-self: stretch;
+  color: var(--pressed);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxxl);
+  font-weight: 700;
+  letter-spacing: 1.20px;
+  line-height: 66px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .beauty-essentials-curated-for-everyday {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.index .about {
+  background-color: var(--white);
+  gap: 48px;
+}
+
+.index .frame-45 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .about-us {
+  gap: 53px;
+}
+
+.index .about-ninth-avenue {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .span {
+  letter-spacing: 0.50px;
+}
+
+.index .span1 {
+  font-size: var(--font-size-xxxxl);
+  font-weight: 700;
+  letter-spacing: 0.50px;
+}
+
+.index .at-ninth-avenue-we-k {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: justify;
+}
+
+.index .categories-of-product {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-47 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  padding: 100px 120px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-28 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.index .slay-everyday-your-way {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .explore-the-skincare {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.index .frame-4-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 59px 139px;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .frame-4-item {
+  align-items: center;
+  flex-direction: column;
+  height: 226px;
+  justify-content: space-between;
+  width: 164px;
+}
+
+.index .skincare {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 54px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .ellipse-2 {
+  background-color: var(--white);
+  border-radius: 75px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.index .lotion-1 {
+  height: 69px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 69px;
+}
+
+.index .makeup {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 54px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .make-up-1 {
+  height: 69px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 69px;
+}
+
+.index .hair-care {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 54px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .hair-1 {
+  height: 85px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 85px;
+}
+
+.index .personal-care {
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.index .pad-1 {
+  height: 96px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 104px;
+  width: 96px;
+}
+
+.index .shave-hair-removal {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .razor-1 {
+  height: 68px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 68px;
+}
+
+.index .tools-accessories {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .scissors-1 {
+  height: 72px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 115px;
+  width: 72px;
+}
+
+.index .green-band {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--primary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-46 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .explore-our-wide-ran {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .contact-us {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.index .email-section {
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  padding: 59px 0px 46px;
+  width: 100%;
+}
+
+.index .frame-50 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.index .contact-us-get-in-touch {
+  flex: 1;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .span0 {
+  letter-spacing: 0.46px;
+}
+
+.index .span1-1 {
+  font-size: var(--font-size-xxxl);
+  font-weight: 600;
+  letter-spacing: 0.46px;
+}
+
+.index .email-button {
+  border: 1px solid;
+  border-color: var(--primary);
+  border-radius: 34px;
+  display: inline-flex;
+  gap: 12px;
+  padding: 15px 33px;
+}
+
+.index .mask-group {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.index .infoninthavenuecom {
+  color: var(--black);
+  font-weight: 500;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.index .addresses {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-29 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 27px;
+  justify-content: center;
+  padding: 53px 80px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 241px;
+}
+
+.index .address {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .hygeia-building-rea {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .name {
+  align-self: stretch;
+  color: var(--pressed);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .f-135136-kailas-va {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .x2301-bayfield-build {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .footer {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 319px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-32 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.index .ninthavenue-logo-black-1-1 {
+  height: 63px;
+  object-fit: cover;
+  position: relative;
+  width: 201px;
+}
+
+.index .x2024-ninth-avenue {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.index .about-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.index .email {
+  align-items: center;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.index .frame-4-2 {
+  display: flex;
+  position: relative;
+}
+
+.index .place-3 {
+  align-self: stretch;
+  color: var(--pressed);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .span1-2 {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+}
+/* screen - nau95desk-responsive */
+
+.nau95desk-responsive {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-width: 375px;
+  position: relative;
+}
+
+.nau95desk-responsive .header1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  height: 100px;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .frame-26-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-around;
+  margin-bottom: -6.00px;
+  margin-top: -6.00px;
+  padding: 32px 82px;
+  position: relative;
+}
+
+.nau95desk-responsive .frame-48-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.nau95desk-responsive .ninthavenue-logo-black-1-2 {
+  height: 48px;
+  width: 155px;
+}
+
+.nau95desk-responsive .menu-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-gray);
+  display: flex;
+  gap: 20px;
+  height: 42px;
+  justify-content: center;
+  padding: 6px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .link-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nau95desk-responsive .banner-section-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(../img/banner-section-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  height: 663px;
+  padding: 63px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .frame-25-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 13px;
+  padding: 0px 38px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .define-beauty-your-way-1 {
+  align-self: stretch;
+  color: var(--pressed);
+  font-family: var(--font-family-poppins);
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0.80px;
+  line-height: 51px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.nau95desk-responsive .beauty-essentials-curated-for-everyday-1 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.nau95desk-responsive .about1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .frame-45-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 80px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .about-us-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 53px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .title {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 55px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95desk-responsive .at-ninth-avenue-we-k-1 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: justify;
+}
+
+.nau95desk-responsive .categories-of-product1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .frame-47-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 44px;
+  padding: 100px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .frame-28-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .slay-everyday-your-way-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 55px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95desk-responsive .explore-the-skincare-1 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95desk-responsive .frame-4-3 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 40px 20px;
+  justify-content: center;
+  width: 100%;
+}
+
+.nau95desk-responsive .frame-4-item-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 190px;
+  justify-content: space-between;
+  position: relative;
+  width: 130px;
+}
+
+.nau95desk-responsive .skincare-1 {
+  align-self: stretch;
+  height: 70px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95desk-responsive .ellipse-2-1 {
+  background-color: var(--white);
+  border-radius: 60px;
+  height: 120px;
+  position: relative;
+  width: 120px;
+}
+
+.nau95desk-responsive .lotion-1-1 {
+  height: 60px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 60px;
+}
+
+.nau95desk-responsive .makeup-1 {
+  align-self: stretch;
+  height: 70px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95desk-responsive .make-up-1-1 {
+  height: 60px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 60px;
+}
+
+.nau95desk-responsive .hair-care-1 {
+  align-self: stretch;
+  height: 70px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95desk-responsive .hair-1-1 {
+  height: 78px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 91px;
+  width: 78px;
+}
+
+.nau95desk-responsive .personal-care-1 {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.nau95desk-responsive .pad-1-1 {
+  height: 89px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 85px;
+  width: 89px;
+}
+
+.nau95desk-responsive .shave-hair-removal-1 {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.nau95desk-responsive .razor-1-1 {
+  height: 60px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 60px;
+}
+
+.nau95desk-responsive .tools-accessories-1 {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.nau95desk-responsive .scissors-1-1 {
+  height: 64px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 98px;
+  width: 64px;
+}
+
+.nau95desk-responsive .green-band-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--primary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .frame-46-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .explore-our-wide-ran-1 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95desk-responsive .contact-us1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .email-section-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  justify-content: center;
+  padding: 64px 0px 46px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .frame-50-1 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.nau95desk-responsive .contact-us-get-in-touch-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 55px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95desk-responsive .email-button-1 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--primary);
+  border-radius: 34px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  padding: 15px 33px;
+  position: relative;
+}
+
+.nau95desk-responsive .mask-group-1 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.nau95desk-responsive .infoninthavenuecom-1 {
+  color: var(--black);
+  font-weight: 500;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.nau95desk-responsive .addresses-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .frame-29-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 27px;
+  justify-content: center;
+  padding: 53px 100px 69px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .frame-4-2 {
+  flex-direction: column;
+  gap: 4px;
+  margin-left: -33.00px;
+  margin-right: -33.00px;
+  width: 241px;
+}
+
+.nau95desk-responsive .address-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.nau95desk-responsive .hygeia-building-rea-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.nau95desk-responsive .name-1 {
+  align-self: stretch;
+  color: var(--pressed);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.nau95desk-responsive .f-135136-kailas-va-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.nau95desk-responsive .x2301-bayfield-build-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.nau95desk-responsive .footer-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 319px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.nau95desk-responsive .frame-32-1 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.nau95desk-responsive .ninthavenue-logo-black-1-3 {
+  height: 45px;
+  width: 145px;
+}
+
+.nau95desk-responsive .x2024-ninth-avenue-1 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95desk-responsive .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.nau95desk-responsive .ninthavenue-logo-black-1 {
+  object-fit: cover;
+  position: relative;
+}
+/* screen - nau95tab-responsive */
+
+.nau95tab-responsive {
+  align-items: flex-start;
+  flex-direction: column;
+  min-width: 946px;
+}
+
+.nau95tab-responsive .header2 {
+  align-items: center;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--text-grey);
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  height: 124px;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.nau95tab-responsive .frame-26-2 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  margin-bottom: -1.50px;
+  margin-top: -1.50px;
+  padding: 32px 82px;
+  position: relative;
+}
+
+.nau95tab-responsive .frame-48-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100px;
+}
+
+.nau95tab-responsive .ninthavenue-logo-black-1-4 {
+  margin-right: -101.00px;
+}
+
+.nau95tab-responsive .menu-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 29px;
+  position: relative;
+}
+
+.nau95tab-responsive .link-2 {
+  color: var(--black);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nau95tab-responsive .banner-section-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  height: 527px;
+  padding: 154px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95tab-responsive .frame-25-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 23px;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95tab-responsive .define-beauty-your-way-2 {
+  align-self: stretch;
+  color: var(--pressed);
+  font-weight: 700;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.nau95tab-responsive .beauty-essentials-curated-for-everyday-2 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.nau95tab-responsive .about2 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  width: 100%;
+}
+
+.nau95tab-responsive .frame-45-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 80px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95tab-responsive .about-us-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 53px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95tab-responsive .about-ninth-avenue-1 {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95tab-responsive .span-2 {
+  letter-spacing: 0.50px;
+}
+
+.nau95tab-responsive .span1-2 {
+  font-size: var(--font-size-xxxxl);
+  font-weight: 700;
+  letter-spacing: 0.50px;
+}
+
+.nau95tab-responsive .at-ninth-avenue-we-k-2 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: justify;
+}
+
+.nau95tab-responsive .categories-of-product2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95tab-responsive .frame-47-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  padding: 100px 120px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95tab-responsive .frame-28-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95tab-responsive .slay-everyday-your-way-2 {
+  align-self: stretch;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95tab-responsive .explore-the-skincare-2 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95tab-responsive .frame-4-5 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 59px 68px;
+  justify-content: center;
+  width: 100%;
+}
+
+.nau95tab-responsive .frame-4-item-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 226px;
+  justify-content: space-between;
+  position: relative;
+  width: 164px;
+}
+
+.nau95tab-responsive .skincare-2 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 54px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95tab-responsive .ellipse-2-2 {
+  background-color: var(--white);
+  border-radius: 75px;
+  height: 150px;
+  position: relative;
+  width: 150px;
+}
+
+.nau95tab-responsive .lotion-1-2 {
+  height: 69px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 69px;
+}
+
+.nau95tab-responsive .makeup-2 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 54px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95tab-responsive .make-up-1-2 {
+  height: 69px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 69px;
+}
+
+.nau95tab-responsive .hair-care-2 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 54px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95tab-responsive .hair-1-2 {
+  height: 85px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 109px;
+  width: 85px;
+}
+
+.nau95tab-responsive .personal-care-2 {
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.nau95tab-responsive .pad-1-2 {
+  height: 96px;
+  left: 34px;
+  object-fit: cover;
+  position: absolute;
+  top: 104px;
+  width: 96px;
+}
+
+.nau95tab-responsive .shave-hair-removal-2 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95tab-responsive .razor-1-2 {
+  height: 68px;
+  left: 48px;
+  object-fit: cover;
+  position: absolute;
+  top: 117px;
+  width: 68px;
+}
+
+.nau95tab-responsive .tools-accessories-2 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95tab-responsive .scissors-1-2 {
+  height: 72px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 115px;
+  width: 72px;
+}
+
+.nau95tab-responsive .green-band-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--primary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95tab-responsive .frame-46-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95tab-responsive .explore-our-wide-ran-2 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95tab-responsive .contact-us2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.nau95tab-responsive .email-section-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  justify-content: center;
+  padding: 64px 40px 46px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95tab-responsive .frame-50-2 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.nau95tab-responsive .contact-us-get-in-touch-2 {
+  flex: 1;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95tab-responsive .span0-2 {
+  letter-spacing: 0.46px;
+}
+
+.nau95tab-responsive .span1-3 {
+  font-size: var(--font-size-xxxl);
+  font-weight: 600;
+  letter-spacing: 0.46px;
+}
+
+.nau95tab-responsive .email-button-2 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--primary);
+  border-radius: 34px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  padding: 15px 33px;
+  position: relative;
+}
+
+.nau95tab-responsive .mask-group-2 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.nau95tab-responsive .infoninthavenuecom-2 {
+  color: var(--black);
+  font-weight: 500;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.nau95tab-responsive .addresses-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95tab-responsive .frame-29-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 27px;
+  justify-content: center;
+  padding: 53px 100px 69px;
+  position: relative;
+  width: 100%;
+}
+
+.nau95tab-responsive .frame-4-4 {
+  flex-direction: column;
+  gap: 4px;
+  width: 241px;
+}
+
+.nau95tab-responsive .address-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.nau95tab-responsive .hygeia-building-rea-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.nau95tab-responsive .name-2 {
+  align-self: stretch;
+  color: var(--pressed);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.nau95tab-responsive .f-135136-kailas-va-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.nau95tab-responsive .x2301-bayfield-build-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.nau95tab-responsive .footer-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 319px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.nau95tab-responsive .frame-32-2 {
+  align-items: center;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px;
+  position: relative;
+}
+
+.nau95tab-responsive .x2024-ninth-avenue-2 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.nau95tab {
+  background-color: var(--white);
+  display: flex;
+  position: relative;
+}
+
+.nau95tab-responsive .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.nau95tab-responsive .ninthavenue-logo-black-1 {
+  height: 63px;
+  object-fit: cover;
+  position: relative;
+  width: 201px;
+}
+
+.nau95tab-responsive .span1 {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+}
+@media screen and (max-width: 945px) {
+  .screen.index { 
+    display: none;
+   }
+  .screen.nau95tab-responsive { 
+    display: none;
+   }
+}
+@media screen and (min-width: 946px) and (max-width: 1225px) {
+  .screen.index { 
+    display: none;
+   }
+  .screen.nau95desk-responsive { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1226px) {
+  .screen.nau95desk-responsive { 
+    display: none;
+   }
+  .screen.nau95tab-responsive { 
+    display: none;
+   }
+}
